@@ -18,4 +18,4 @@ Utilizando un dataset de más de 10,000 registros, he desarrollado un modelo de 
 ![Importancias](Importancias_bank.png)
 
 ### Matriz de Confusión
-![Matriz de confusión](matriz_de_confusion_bank.png)
+![Matriz de confusión](matris_de_confusion_bank.png)
